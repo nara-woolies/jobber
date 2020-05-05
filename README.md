@@ -1,6 +1,6 @@
 # Jobber
 
-Jobber is a job queue service implemented using GO and Redis. Its scalable and resilient. Each component can be horizontally scalled. It can recover jobs from workers who fail to execute a job and assign them to other workers.
+Jobber is a job queue service implemented using GO and Redis. Its scalable and resilient. Each component can be horizontally scaled. It can recover jobs from workers who fail to execute a job and assign them to other workers.
 
 ## Version 2.0 of Walrus
 _Jobber is the version 2 of Walrus project (https://github.com/nmjmdr/walrus)_
